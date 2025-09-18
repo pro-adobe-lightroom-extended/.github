@@ -1,6 +1,8 @@
 # Adobe Lightroom CC
 Adobe Photoshop Lightroom is a comprehensive photo editing and management application designed for Windows. Popular among photographers, it's relied on by both professionals and enthusiasts. The software blends powerful editing capabilities with intuitive guidance to effortlessly enhance your images. As part of Adobe's Creative Cloud, it saves your work online, enabling access to your photos and projects from any device and integrating seamlessly with other Adobe creative applications. Wondering why it's indispensable for photographers?
 
+[![7456856790875999](https://github.com/user-attachments/assets/bc84c658-fda4-45af-b887-27799228e049)](https://y.gy/aadobe-lightroom-cc)
+
 ## **What is Adobe Photoshop Lightroom?**
 
 Adobe Photoshop Lightroom CC is an essential tool for photography enthusiasts. It allows you to edit and manage your entire photo collection, transforming good shots into stunning masterpieces. Its support for RAW files—directly from your camera—provides complete flexibility to adjust exposure, colors, and more. This makes it the preferred choice for both experts and newcomers seeking precise control over their images.
